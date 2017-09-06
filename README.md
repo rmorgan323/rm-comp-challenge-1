@@ -8,5 +8,5 @@ As a result of all of this, there is more CSS than I would have guessed for a pa
 
 Overall, I was pleased with the result.
 
-<img style="width: 500px;" src="assets/sc-2.png>
-<img style="width: 500px;" src="assets/sc-.jpg>
+![screenshot](assets/sc-2.png)
+![screenshot](assets/sc-1.jpg)
